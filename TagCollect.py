@@ -36,7 +36,7 @@ else:
     checked = []
 print (len(checked), 'files already done')
     
-fstr = ''
+fstr = '{'
 l = len(mod_json.keys())
 print (l)
 k = 1
@@ -82,9 +82,9 @@ try:
             per = (k/l)*100
             print ( '%.2f  completed' % k)
             k += 1
-            fstr += '"'+str(key) + '":' + (str(taglist).replace('\'','"')).replace('"s', "'s")
+            fstr += '"'+str(key) + '":' + (str(taglist).replace('\'','"')).replace('"s', "'s")+','
 
-    fstr = fstr[:-1]
+    fstr = fstr[:-1]+'}'
     print (checked)
     checked = list(set(checked))
     print ('l')
