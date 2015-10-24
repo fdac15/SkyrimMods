@@ -18,7 +18,10 @@ class StopWatch:
 class ModBlock:
     def __init__(self,html=None):
         if html != None:
-            self.from_html(html)
+            try:
+                self.from_html(html)
+            except AttributeError:
+                raise AttributeError
     def print_mod(self):
         print('{0}: {1}'.format('url', self.url))
         print('{0}: {1}'.format('likes', self.likes))
@@ -33,8 +36,8 @@ class ModBlock:
         self.url = html.find('a', class_='image bubble-open pb-hover pb-left pb-ajax pb-forceclose', href=True)['href']
         self.likes = html.find('span', class_='likes').text
         self.downloads = html.find('span', class_='downloads').text
-        self.name = html.find('a', class_='title')['title']
-        self.des = html.find('div', class_=None).text
+        self.name= html.find('a', class_='title')['title']
+        self.des= html.find('div', class_=None).text
         self.created = html.find('div', class_='category-file-hover-released').text
         self.update = html.find('div', class_='category-file-hover-updated').text
         self.creator = html.find('a', class_='user').text
@@ -52,7 +55,7 @@ class ModBlock:
         id = [s for s in self.url.split('/') if s.isdigit()]
         return id[0]
     def to_list(self):
-        data = [self.url, self.likes, self.downloads, self.name, '\''+self.des+'\'', self.created, self.update, self.creator]
+        data = [str(self.url), str(self.likes), str(self.downloads), str(self.name), '\''+str(self.des)+'\'', str(self.created), str(self.update), str(self.creator)]
         return data
 
 #gets a list of the nexus mods at url
@@ -90,6 +93,10 @@ def get_nexus_mods_from_pages(start = 1, end = 1, rr = 1, site='skyrim',verbose=
         if modList == None:
             print('no mods on page {0}\nare you sure you\'re in range?'.format(url))
         for e in modList:
+            try:
+                mod = ModBlock(e)
+            except AttributeError:
+                continue
             mods.append(ModBlock(e))
     if verbose:
         print('\ndone')
@@ -111,8 +118,6 @@ def modblock_to_json(mlist=[], name = 'mods.json', mode='w'):
         
     with open(name, mode) as outfile:
         json.dump(jall, outfile)
-        
-        import json
 
 #returns a list of modblocks generated from name
 def json_to_modblock(name='mods.json'):
