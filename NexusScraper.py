@@ -140,14 +140,19 @@ def get_page_views(mod):
     soup = BeautifulSoup(page.text, 'html5lib')
     return soup.find('p', class_='file-total-views').find('strong').text
 
-def pageviews_to_json(mods, name='skyrim_pageviews.json', start=0, end=1, rr=0.1):
+def pageviews_to_json(mods, name='skyrim_pageviews.json', start=0, end=1, rr=0.1,verbose=False):
     timer = StopWatch(rr)
     pageviews = {}
     for i in range(start, end):
+        if verbose:
+            print('\rgetting mod {0}'.format(i), end=' ')
         timer.start()
         pageviews.update({mods[i].get_id(): get_page_views(mods[i])})
     with open(name, 'w') as outfile:
         json.dump(pageviews,outfile)
+    
+    if verbose:
+        print('done');
         
 def get_page_views_range(mods,start=0, end=1, rr=0.1):
     timer = StopWatch(rr)
