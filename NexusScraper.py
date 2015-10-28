@@ -130,3 +130,30 @@ def json_to_modblock(name='mods.json'):
         modblock.from_list(mod)
         jmods.append(modblock)
     return jmods
+#returns the page views of mod
+def get_page_views(mod):
+    try:
+        page = requests.get(mod.url)
+    except:
+        return ''
+    
+    soup = BeautifulSoup(page.text, 'html5lib')
+    return soup.find('p', class_='file-total-views').find('strong').text
+
+def pageviews_to_json(mods, name='skyrim_pageviews.json', start=0, end=1, rr=0.1):
+    timer = StopWatch(rr)
+    pageviews = {}
+    for i in range(start, end):
+        timer.start()
+        pageviews.update({mods[i].get_id(): get_page_views(mods[i])})
+    with open(name, 'w') as outfile:
+        json.dump(pageviews,outfile)
+        
+def get_page_views_range(mods,start=0, end=1, rr=0.1):
+    timer = StopWatch(rr)
+    pageviews = []
+    for i in range(start,end):
+        timer.start()
+        pageviews.append(get_page_views(mods[i]))
+        
+    return pageviews
