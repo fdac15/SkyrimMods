@@ -17,6 +17,8 @@ class StopWatch:
 #container class for information on mod
 class ModBlock:
     def __init__(self,html=None):
+        self.views = 'None'
+        self.udownloads = 'None'
         if html != None:
             try:
                 self.from_html(html)
@@ -26,6 +28,8 @@ class ModBlock:
         print('{0}: {1}'.format('url', self.url))
         print('{0}: {1}'.format('likes', self.likes))
         print('{0}: {1}'.format('downloads', self.downloads))
+        print('{0}: {1}'.format('unique dls', self.udownloads))
+        print('{0}: {1}'.format('page views', self.views))
         print('{0}: {1}'.format('name', self.name))
         print('{0}: {1}'.format('description', self.des))
         print('{0}: {1}'.format('created', self.created))
@@ -41,7 +45,7 @@ class ModBlock:
         self.created = html.find('div', class_='category-file-hover-released').text
         self.update = html.find('div', class_='category-file-hover-updated').text
         self.creator = html.find('a', class_='user').text
-    #len(mlist) = 8
+    #len(mlist) = 10
     def from_list(self, mlist):
         self.url = mlist[0]
         self.likes = mlist[1]
@@ -51,13 +55,26 @@ class ModBlock:
         self.created = mlist[5]
         self.update = mlist[6]
         self.creator = mlist[7]
+        self.udownloads = mlist[8]
+        self.views = mlist[9]
     def get_id(self):
         id = [s for s in self.url.split('/') if s.isdigit()]
         return id[0]
     def to_list(self):
-        data = [str(self.url), str(self.likes), str(self.downloads), str(self.name), '\''+str(self.des)+'\'', str(self.created), str(self.update), str(self.creator)]
+        data = [str(self.url), str(self.likes), str(self.downloads), str(self.name), '\''+str(self.des)+'\'', str(self.created), str(self.update), str(self.creator), str(self.udownloads), str(self.views)]
         return data
-
+    def get_pv_ud(self):
+        try:
+            page = requests.get(self.url)
+        except:
+            return
+        soup = BeautifulSoup(page.text, 'html5lib')
+        try:
+            self.views = soup.find('p', class_='file-total-views').find('strong').text
+            self.udownloads = soup.find('p', class_='file-unique-dls').find('strong').text
+        except:
+            return
+        
 #gets a list of the nexus mods at url
 def get_nexus_mods(url):
     page = requests.get(url)
@@ -130,35 +147,3 @@ def json_to_modblock(name='mods.json'):
         modblock.from_list(mod)
         jmods.append(modblock)
     return jmods
-#returns the page views of mod
-def get_page_views(mod):
-    try:
-        page = requests.get(mod.url)
-    except:
-        return ''
-    
-    soup = BeautifulSoup(page.text, 'html5lib')
-    return soup.find('p', class_='file-total-views').find('strong').text
-
-def pageviews_to_json(mods, name='skyrim_pageviews.json', start=0, end=1, rr=0.1,verbose=False):
-    timer = StopWatch(rr)
-    pageviews = {}
-    for i in range(start, end):
-        if verbose:
-            print('\rgetting mod {0}'.format(i), end=' ')
-        timer.start()
-        pageviews.update({mods[i].get_id(): get_page_views(mods[i])})
-    with open(name, 'w') as outfile:
-        json.dump(pageviews,outfile)
-    
-    if verbose:
-        print('done');
-        
-def get_page_views_range(mods,start=0, end=1, rr=0.1):
-    timer = StopWatch(rr)
-    pageviews = []
-    for i in range(start,end):
-        timer.start()
-        pageviews.append(get_page_views(mods[i]))
-        
-    return pageviews
