@@ -126,15 +126,11 @@ def modblock_to_json(mlist=[], name = 'mods.json', mode='w'):
     for mod in mlist:
         jall.update({mod.get_id(): mod.to_list()})
         
-    data = {}
-    if mode == 'a':
-        if os.path.isfile(name):
-            data = json_to_modblock(name)
-            for mod in data:
-                jall.update({mod.get_id(): mod.to_list()})
-        
-    with open(name, mode) as outfile:
-        json.dump(jall, outfile)
+    if mode == 'l':
+        return jall
+    if mode == 'w':
+        with open(name, mode) as outfile:
+            json.dump(jall, outfile)
 
 #returns a list of modblocks generated from name
 def json_to_modblock(name='mods.json'):
