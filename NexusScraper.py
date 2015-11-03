@@ -1,10 +1,10 @@
 import time, json, requests, os
 from bs4 import BeautifulSoup
+from nltk.tokenize import word_tokenize
 
 #define a timer which will be used to 
 #regulate the speed at which pages will be
 #retrieved
-
 #pages retrieved/sec = (1/self.mtime)
 class StopWatch:
     def __init__(self, time):
@@ -143,3 +143,59 @@ def json_to_modblock(name='mods.json'):
         modblock.from_list(mod)
         jmods.append(modblock)
     return jmods
+
+#modes are " 'des', 'name', 'creator' "
+#returns a list of two-tuple entries defined by a word-count pair.
+#this list is of the most used words. by passing mode='creator'
+#you can see how many mods a particular user has created
+#if write=True, a json file is written as name
+def most_used(mods=[],mode='des', write=False, name='most_used.json'):
+    wordCount = {}
+    tokens = []
+    
+    stopwords = ["'","''",'"','the','and',',','.','to','a','for','of','in','is','you','with','This','!','?','that','A','(',')',
+              'from','it','I',"'s",'by','you','your',"you're",':','on','as','The','can','-','this','be','are','or',
+              'will','have',"``",'an','my','at','so','not','but','into','some','...','just','It','--','them','also',
+              'has',"n't",'which','Which','do','de','only','i','who','what','when','where','why',
+              'if','was','&','You',']','[','their','they','http','/','\\',';','@','#','$','%','^','*','~','{','}','|',
+              '+','=','<','>','he','she','his','her','hers','to','too','him',"'v","'re","'d"]
+    for mod in mods:
+        if mode == 'creator':
+            tokens = word_tokenize(mod.creator.lower())
+        elif mode == 'name':
+            tokens = word_tokenize(mod.name.lower())
+        else:
+            tokens = word_tokenize(mod.des.lower())
+
+        for token in tokens:
+            if token in stopwords:
+                continue
+            if token in wordCount:
+                wordCount[token]+=1
+            else:
+                wordCount.update({token:1})
+                
+    stuff = list(wordCount.items())
+    sortedWordCount = sorted(stuff, key=lambda e: e[1])
+    sortedWordCount.reverse()
+    
+    if write:
+        with open(name,'w') as file:
+            json.dump(sortedWordCount,file)
+    
+    return sortedWordCount
+
+#returns a dictionary keyed in on creator names. values are the id's of the mods they created
+def sort_by_creator(mods=[], write=False,name='sort_by_creator.json'):
+    creators = {}
+    for mod in mods:
+        if mod.creator in creators:
+            creators[mod.creator].append(mod.get_id())
+        else:
+            creators.update({mod.creator: [mod.get_id()]})
+            
+    if write:
+        with open(name,'w') as file:
+            json.dump(creators,file)
+            
+    return creators
