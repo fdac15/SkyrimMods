@@ -1,6 +1,9 @@
-import time, json, requests, os
+import time, json, requests, os, locale
 from bs4 import BeautifulSoup
 from nltk.tokenize import word_tokenize
+
+#set the locale to US
+locale.setlocale( locale.LC_ALL, 'en_US.UTF-8' )
 
 #define a timer which will be used to 
 #regulate the speed at which pages will be
@@ -199,3 +202,27 @@ def sort_by_creator(mods=[], write=False,name='sort_by_creator.json'):
             json.dump(creators,file)
             
     return creators
+
+#modes are udl, dl, pv, likes, name
+def sort_by(mods=[], mode='udl'):
+    for mod in mods:
+        #these buggers are caused by nexus,
+        #so I am explicitly handling them as needed
+        if mod.udownloads == '':
+             mod.udownloads = mod.downloads
+        if mod.views == '':
+             mod.views = '-1'
+    #setup the key for sorting
+    if mode == 'udl':
+        key = lambda mod: locale.atoi(mod.udownloads)
+    elif mode == 'dl':
+        key = lambda mod: locale.atoi(mod.downloads)
+    elif mode == 'pv':
+        key = lambda mod: locale.atoi(mod.views)
+    elif mode == 'name':
+        key = lambda mod: mod.name
+    else:
+        key = lambda mod: locale.atoi(mod.likes)
+    sorted_mods = sorted(mods, key=key)
+    sorted_mods.reverse()
+    return sorted_mods
