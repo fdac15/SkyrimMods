@@ -10,8 +10,7 @@ the json files related to the tags follow one of the following forms:
 
 
 
-/steam <br />
-  holds all scripts and data pretaining to the scrape of the steam workshop <br />
+/steam - holds all scripts and data pretaining to the scrape of the steam workshop <br />
   Scraper file has three sections <br />
     first section - loads all of the skyrim workshop pages and records the urls directing to every mod and writes them to links.txt <br />
     second section - grabs all of the catagories and writes them to catagoroes.txt <br />
