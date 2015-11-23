@@ -1,7 +1,0 @@
-profile block
-workshopBrowseRow
-workshopItem left
-workshopItem middle
-workshopItem right
-
-http://steamcommunity.com/workshop/browse/?appid=72850&browsesort=trend&section=readytouseitems&days=90&actualsort=trend&p=1
