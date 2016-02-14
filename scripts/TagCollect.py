@@ -21,7 +21,7 @@ class StopWatch:
         ctime = time.time()+self.mtime
         while(ctime > time.time()):
             pass
-with open('oblivion_mods_all.json','r') as jfile:
+with open('../dragon_age_data/dai/dragon_age_inquisition_mods_all.json','r') as jfile:
     mod_json = json.loads(jfile.read())
     
 
@@ -29,8 +29,8 @@ with open('oblivion_mods_all.json','r') as jfile:
 timer = StopWatch(0.2)
 timer2 = StopWatch(10)
 
-if os.path.isfile('checked_o.txt'):
-    with open('checked_o.txt','r') as f:
+if os.path.isfile('checked_dai.txt'):
+    with open('checked_dai.txt','r') as f:
         checked = f.read().split(',')
 else:
     checked = []
@@ -45,7 +45,7 @@ try:
         
         if str(key) not in checked:
             mod_tag = {}
-            url = 'http://www.nexusmods.com/oblivion/ajax/modtags/?id='+str(key)
+            url = 'http://www.nexusmods.com/dragonageinquisition/ajax/modtags/?id='+str(key)
             timer.start()
             
             if (k%500) == 0:
@@ -89,17 +89,17 @@ try:
     checked = list(set(checked))
     
     checked_str = ','.join(str (k) for k in checked)
-    with open ('taglist_o.json','a') as tagfile:
+    with open ('taglist_dai.json','a') as tagfile:
         tagfile.write(fstr)
-    with open('checked_o.txt','w') as f:
+    with open('checked_dai.txt','w') as f:
             f.write(checked_str)
         
 except:
     fstr = fstr[:-1]
     checked_str = ','.join(str (k) for k in checked)
-    with open ('taglist_o.json','a') as tagfile:
+    with open ('taglist_dai.json','a') as tagfile:
         tagfile.write(fstr)
-    with open('checked_o.txt','w') as f:
+    with open('checked_dai.txt','w') as f:
         f.write(checked_str)
        
     print ('Connection Error !!!!!!!')
