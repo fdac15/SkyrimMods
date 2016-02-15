@@ -1,21 +1,10 @@
-import time, json, requests, os, locale
+import json, requests, os, locale
 from bs4 import BeautifulSoup
 from nltk.tokenize import word_tokenize
+from time import sleep
 
 #set the locale to US
 locale.setlocale( locale.LC_ALL, 'en_US.UTF-8' )
-
-#define a timer which will be used to 
-#regulate the speed at which pages will be
-#retrieved
-#pages retrieved/sec = (1/self.mtime)
-class StopWatch:
-    def __init__(self, time):
-        self.mtime = time
-    def start(self):
-        ctime = time.time()+self.mtime
-        while(ctime > time.time()):
-            pass
         
 #container class for information on mod
 class ModBlock:
@@ -100,13 +89,12 @@ def get_nexus_mods(url):
 #site is the name of the site you wish to gather from. multi-word names should be pushed
 #together. ex) 'worldoftanks'
 def get_nexus_mods_from_pages(start = 1, end = 1, rr = 1, site='skyrim',verbose=False):
-    timer = StopWatch(rr)
     mods = []
     for i in range(start, end+1):
         if verbose:
             print('\rgetting page {0}/{1}'.format(i,end), end=' ')
 
-        timer.start()
+        sleep(rr)
         url = 'http://www.nexusmods.com/'+site+'/mods/searchresults/?src_order=3&src_sort=0&src_view=1&src_tab=1&src_language=0&page='+str(i)+'&pUp=1'
         
         modList = get_nexus_mods(url)
