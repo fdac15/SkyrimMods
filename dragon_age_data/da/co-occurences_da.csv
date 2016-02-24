@@ -3388,3 +3388,94 @@ tag_tuple,tag1_count,tag2_count,ratio
 "('Armor - Shields', 'Locations - Dungeons')",79,13,6.076923076923077
 "('Humor, Joke or Just for Fun', 'Locations - World Map')",16,18,0.8888888888888888
 "('Video', ""Modder's Resource"")",44,84,0.5238095238095238
+"('For DAA', 'Lore-Friendly')",49,295,0.16610169491525423
+"('Companion - Alistair', 'Books')",102,16,6.375
+"('Skills', 'Japanese')",54,15,3.6
+"('For female characters', 'Scripted Events')",271,76,3.5657894736842106
+"('Gameplay Effects/Changes', 'Replacer')",257,401,0.6408977556109726
+"('Gameplay Effects/Changes', 'Lore-Friendly')",257,295,0.8711864406779661
+"('Companion - Zevran', 'Clothing - Male')",82,25,3.28
+"('Unbalanced', 'English')",6,509,0.011787819253438114
+"('For female characters', 'German')",271,44,6.159090909090909
+"('Companion - Mhairi', 'German')",7,44,0.1590909090909091
+"('Companion - Dog', 'New models')",21,123,0.17073170731707318
+"('For male characters', 'Body models')",234,30,7.8
+"('For female characters', 'Fair and balanced')",271,44,6.159090909090909
+"('Spanish', 'Plants / Foliage')",26,3,8.666666666666666
+"('Fair and balanced', 'Skills')",44,54,0.8148148148148148
+"('Companion - Morrigan', 'Magic - Potions')",102,9,11.333333333333334
+"('Companion - Leliana', 'Locations - Buildings')",117,27,4.333333333333333
+"('Gameplay Effects/Changes', 'Locations - Caverns')",257,6,42.833333333333336
+"('Companion - New - Female', 'Items - Ingredients')",34,7,4.857142857142857
+"('Fair and balanced', 'Quests')",44,59,0.7457627118644068
+"('Environment - Other', 'Items - Furniture')",18,14,1.2857142857142858
+"('Animation - Modified', 'Magic - Spells')",37,62,0.5967741935483871
+"('Companion - Morrigan', 'Environment - Sky')",102,3,34.0
+"('Companion - Mhairi', 'Companion - Morrigan')",7,102,0.06862745098039216
+"('Companion - Oghren', 'Armor - Shields')",32,79,0.4050632911392405
+"('NPC Vendors', 'Non-Playable Resource')",43,21,2.0476190476190474
+"('Chargen', 'Items - Apparatus')",136,15,9.066666666666666
+"('Chargen', 'Clothing - Female')",136,31,4.387096774193548
+"('Skills', 'Plants / Foliage')",54,3,18.0
+"('Companion - New - Female', 'NPC Vendors')",34,43,0.7906976744186046
+"('Audio - Music', 'Classes component')",11,31,0.3548387096774194
+"('German', 'Magic - Spells')",44,62,0.7096774193548387
+"('Official', 'Cheating')",3,106,0.02830188679245283
+"('Audio - Music', 'Video')",11,44,0.25
+"('Companions', 'Clothing - Male')",259,25,10.36
+"('Unbalanced', 'NPC Vendors')",6,43,0.13953488372093023
+"('For DAA', 'Magic - Spells')",49,62,0.7903225806451613
+"('Companion - Wynne', 'Clothing - Female')",46,31,1.4838709677419355
+"('Related to Movies/TV/Other Games', 'Hair')",59,83,0.7108433734939759
+"('Companion - Mhairi', 'User Interface')",7,38,0.18421052631578946
+"('Companions', 'Races - New')",259,6,43.166666666666664
+"('Companion - Alistair', 'Companion - Morrigan')",102,102,1.0
+"('Singleplayer Campaign', 'Spanish')",183,26,7.038461538461538
+"('Companion Friendly', 'NPC Vendors')",61,43,1.4186046511627908
+"('Companion - Morrigan', 'Lore-Friendly')",102,295,0.34576271186440677
+"('Companion - Wynne', 'Face models')",46,417,0.11031175059952038
+"('Items - Clutter', 'Items - Ingredients')",20,7,2.857142857142857
+"('Companion - Dog', 'Skills')",21,54,0.3888888888888889
+"('Replacer', 'Skills')",401,54,7.425925925925926
+"('Companion - Dog', 'NPC Vendors')",21,43,0.4883720930232558
+"('Classes component', 'Items - Apparatus')",31,15,2.066666666666667
+"('Companion - Dog', 'Environment - Other')",21,18,1.1666666666666667
+"('English', 'Russian')",509,32,15.90625
+"('Companion - Dog', 'Items - Apparatus')",21,15,1.4
+"('Companion - New - Male', 'Tutorials for Players')",35,12,2.9166666666666665
+"('Companion - Morrigan', 'Locations - Caverns')",102,6,17.0
+"('Companion - Alistair', 'User Interface')",102,38,2.6842105263157894
+"('Companions', 'Companion - Zevran')",259,82,3.158536585365854
+"('Quests', 'Books')",59,16,3.6875
+"('Fair and balanced', 'Locations - World Map')",44,18,2.4444444444444446
+"('Companion - New - Male', ""Modder's Resource"")",35,84,0.4166666666666667
+"('Classes component', 'Hair')",31,83,0.37349397590361444
+"('Companion - Justice', 'Companion - New - Male')",12,35,0.34285714285714286
+"('For female characters', 'Video')",271,44,6.159090909090909
+"('For DAO', 'Performance Optimization')",213,1,213.0
+"('Scripted Events', 'Weapons')",76,227,0.33480176211453744
+"('Clothing', ""Modder's Resource"")",109,84,1.2976190476190477
+"('Italian', 'Japanese')",21,15,1.4
+"('Performance Optimization', 'User Interface')",1,38,0.02631578947368421
+"('Hair', 'Translation')",83,6,13.833333333333334
+"('Companions', 'User Interface')",259,38,6.815789473684211
+"('Classes component', 'Magic - Potions')",31,9,3.4444444444444446
+"('For DAO', 'Classes component')",213,31,6.870967741935484
+"('For female characters', 'Locations - Dungeons')",271,13,20.846153846153847
+"('Companions', 'Lore-Friendly')",259,295,0.8779661016949153
+"('Companion - Shale', 'Lore-Friendly')",10,295,0.03389830508474576
+"('For male characters', 'Environment - Other')",234,18,13.0
+"('Audio - Sound FX', 'Utilities for Modders')",23,36,0.6388888888888888
+"('Skills', 'Clothing - Female')",54,31,1.7419354838709677
+"('Companion - Alistair', 'Companion - Shale')",102,10,10.2
+"('Japanese', 'NPC Vendors')",15,43,0.3488372093023256
+"('Companion - Wynne', ""Modder's Resource"")",46,84,0.5476190476190477
+"('Clothing', 'Plants / Foliage')",109,3,36.333333333333336
+"('Companion - Leliana', 'Companion - Shale')",117,10,11.7
+"('Singleplayer Campaign', 'Russian')",183,32,5.71875
+"('Hair', 'Items - Clutter')",83,20,4.15
+"('Saved games', 'Spanish')",85,26,3.269230769230769
+"('New Lands', 'Nudity')",22,9,2.4444444444444446
+"('Companion Friendly', 'Companion - Sigrun')",61,11,5.545454545454546
+"('Lighting', 'Skills')",4,54,0.07407407407407407
+"('Companion - Sten', 'NPC Vendors')",44,43,1.0232558139534884

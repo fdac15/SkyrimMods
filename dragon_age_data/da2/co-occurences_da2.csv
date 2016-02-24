@@ -1,0 +1,309 @@
+tag_tuple,tag1_count,tag2_count,ratio
+"('Japanese', 'Other languages')",14,11,1.2727272727272727
+"('Official', 'Japanese')",10,14,0.7142857142857143
+"('Compilation', 'Japanese')",4,14,0.2857142857142857
+"('New textures', ""Modder's Resource"")",198,20,9.9
+"('Face models', 'Non-Playable Resource')",127,14,9.071428571428571
+"('Tutorials for Players', 'Utilities for Players')",9,14,0.6428571428571429
+"('Gameplay Effects/Changes', 'New models')",118,37,3.189189189189189
+"('New textures', 'Saved games')",198,29,6.827586206896552
+"('Gameplay Effects/Changes', 'Anime')",118,3,39.333333333333336
+"('Audio - Music', 'Utilities for Modders')",2,5,0.4
+"('New models', 'Other languages')",37,11,3.3636363636363638
+"('New textures', 'Humor, Joke or Just for Fun')",198,2,99.0
+"('English', 'German')",200,14,14.285714285714286
+"('Other languages', 'Spanish')",11,15,0.7333333333333333
+"('German', 'Spanish')",14,15,0.9333333333333333
+"('German', 'Non-Playable Resource')",14,14,1.0
+"('Skills', 'English')",29,200,0.145
+"('New models', 'New textures')",37,198,0.18686868686868688
+"('Face models', 'Sexy/Skimpy')",127,6,21.166666666666668
+"('English', 'Russian')",200,25,8.0
+"('Official', 'New models')",10,37,0.2702702702702703
+"('Saved games', 'Spanish')",29,15,1.9333333333333333
+"('Russian', 'Non-Playable Resource')",25,14,1.7857142857142858
+"('Gameplay Effects/Changes', 'Japanese')",118,14,8.428571428571429
+"('Tutorials for Modders', 'User Interface')",8,13,0.6153846153846154
+"('Russian', 'User Interface')",25,13,1.9230769230769231
+"('New textures', 'Spanish')",198,15,13.2
+"('Gameplay Effects/Changes', 'French')",118,15,7.866666666666666
+"('New models', 'German')",37,14,2.642857142857143
+"('Official', 'Other languages')",10,11,0.9090909090909091
+"('Anime', 'Japanese')",3,14,0.21428571428571427
+"('Sexy/Skimpy', ""Modder's Resource"")",6,20,0.3
+"('Face models', 'Spanish')",127,15,8.466666666666667
+"('Tutorials for Modders', 'Tutorials for Players')",8,9,0.8888888888888888
+"('Czech', 'Polish')",10,14,0.7142857142857143
+"('Skills', ""Modder's Resource"")",29,20,1.45
+"('Scripted Events', 'English')",1,200,0.005
+"('Quests', 'Non-Playable Resource')",2,14,0.14285714285714285
+"('Face models', 'Tutorials for Players')",127,9,14.11111111111111
+"('Other languages', 'Polish')",11,14,0.7857142857142857
+"('Body models', 'Utilities for Players')",15,14,1.0714285714285714
+"('Gameplay Effects/Changes', 'Performance Optimization')",118,3,39.333333333333336
+"('Face models', 'Italian')",127,14,9.071428571428571
+"('English', 'Other languages')",200,11,18.181818181818183
+"('Czech', 'English')",10,200,0.05
+"('Audio - Music', 'Non-Playable Resource')",2,14,0.14285714285714285
+"('Official', 'Italian')",10,14,0.7142857142857143
+"('New textures', 'Tutorials for Players')",198,9,22.0
+"('Performance Optimization', 'English')",3,200,0.015
+"('New models', 'Spanish')",37,15,2.466666666666667
+"('New textures', 'Utilities for Players')",198,14,14.142857142857142
+"('Humor, Joke or Just for Fun', 'Utilities for Modders')",2,5,0.4
+"('French', 'Russian')",15,25,0.6
+"('Performance Optimization', 'Other languages')",3,11,0.2727272727272727
+"('Performance Optimization', 'Russian')",3,25,0.12
+"('Anime', 'Italian')",3,14,0.21428571428571427
+"('New textures', 'Other languages')",198,11,18.0
+"('Czech', 'Russian')",10,25,0.4
+"('Gameplay Effects/Changes', 'German')",118,14,8.428571428571429
+"('Tutorials for Modders', 'Utilities for Players')",8,14,0.5714285714285714
+"('Gameplay Effects/Changes', 'Nudity')",118,11,10.727272727272727
+"('Anime', 'Czech')",3,10,0.3
+"('Performance Optimization', 'Spanish')",3,15,0.2
+"('Body models', ""Modder's Resource"")",15,20,0.75
+"(""Modder's Resource"", 'Non-Playable Resource')",20,14,1.4285714285714286
+"('Russian', ""Modder's Resource"")",25,20,1.25
+"('Official', 'Face models')",10,127,0.07874015748031496
+"('New textures', 'Tutorials for Modders')",198,8,24.75
+"('Humor, Joke or Just for Fun', 'Tutorials for Modders')",2,8,0.25
+"('Italian', 'Japanese')",14,14,1.0
+"('English', 'Polish')",200,14,14.285714285714286
+"('New models', 'Utilities for Players')",37,14,2.642857142857143
+"('Skills', 'French')",29,15,1.9333333333333333
+"('Anime', 'Other languages')",3,11,0.2727272727272727
+"('Compilation', 'Performance Optimization')",4,3,1.3333333333333333
+"('Quests', 'Utilities for Players')",2,14,0.14285714285714285
+"('Environment - Sky', 'Environment - Water')",1,1,1.0
+"('Japanese', 'Russian')",14,25,0.56
+"('Quests', 'Tutorials for Players')",2,9,0.2222222222222222
+"('Nudity', 'English')",11,200,0.055
+"('Environment - Other', 'New textures')",9,198,0.045454545454545456
+"('Anime', 'English')",3,200,0.015
+"('Non-Playable Resource', 'User Interface')",14,13,1.0769230769230769
+"('Audio - Music', 'English')",2,200,0.01
+"('Performance Optimization', 'Japanese')",3,14,0.21428571428571427
+"('New textures', 'Non-Playable Resource')",198,14,14.142857142857142
+"('Face models', 'Czech')",127,10,12.7
+"('Face models', ""Modder's Resource"")",127,20,6.35
+"('Performance Optimization', 'New textures')",3,198,0.015151515151515152
+"('Skills', 'Spanish')",29,15,1.9333333333333333
+"('Body models', 'New textures')",15,198,0.07575757575757576
+"('Face models', 'New textures')",127,198,0.6414141414141414
+"('Saved games', 'Utilities for Players')",29,14,2.0714285714285716
+"('Sexy/Skimpy', 'Tutorials for Players')",6,9,0.6666666666666666
+"('Anime', 'Spanish')",3,15,0.2
+"('Face models', 'Tutorials for Modders')",127,8,15.875
+"('New models', 'Saved games')",37,29,1.2758620689655173
+"('Saved games', 'Utilities for Modders')",29,5,5.8
+"('Skills', 'Japanese')",29,14,2.0714285714285716
+"('Environment - Other', ""Modder's Resource"")",9,20,0.45
+"('New textures', 'Utilities for Modders')",198,5,39.6
+"('Gameplay Effects/Changes', 'Italian')",118,14,8.428571428571429
+"('Face models', 'Humor, Joke or Just for Fun')",127,2,63.5
+"('New models', ""Modder's Resource"")",37,20,1.85
+"('Body models', 'Tutorials for Players')",15,9,1.6666666666666667
+"('Face models', 'Anime')",127,3,42.333333333333336
+"('Gameplay Effects/Changes', 'New textures')",118,198,0.5959595959595959
+"('Face models', 'Other languages')",127,11,11.545454545454545
+"('Audio - Sound FX', 'Utilities for Players')",1,14,0.07142857142857142
+"('Tutorials for Players', 'User Interface')",9,13,0.6923076923076923
+"('New textures', 'Czech')",198,10,19.8
+"('Skills', 'German')",29,14,2.0714285714285716
+"('Official', 'Spanish')",10,15,0.6666666666666666
+"('Official', 'German')",10,14,0.7142857142857143
+"('Humor, Joke or Just for Fun', 'English')",2,200,0.01
+"('New models', 'French')",37,15,2.466666666666667
+"('English', 'Non-Playable Resource')",200,14,14.285714285714286
+"('New models', 'Russian')",37,25,1.48
+"('New models', 'Humor, Joke or Just for Fun')",37,2,18.5
+"('User Interface', 'Utilities for Players')",13,14,0.9285714285714286
+"('Environment - Water', 'New textures')",1,198,0.005050505050505051
+"('New models', 'Nudity')",37,11,3.3636363636363638
+"('Gameplay Effects/Changes', 'Scripted Events')",118,1,118.0
+"('Non-Playable Resource', 'Utilities for Players')",14,14,1.0
+"('Italian', 'Spanish')",14,15,0.9333333333333333
+"('Gameplay Effects/Changes', 'Russian')",118,25,4.72
+"('Tutorials for Modders', 'Utilities for Modders')",8,5,1.6
+"('New textures', 'Polish')",198,14,14.142857142857142
+"('German', 'Other languages')",14,11,1.2727272727272727
+"('Gameplay Effects/Changes', 'Tutorials for Modders')",118,8,14.75
+"('Performance Optimization', 'Italian')",3,14,0.21428571428571427
+"('Gameplay Effects/Changes', 'User Interface')",118,13,9.076923076923077
+"('Polish', 'Spanish')",14,15,0.9333333333333333
+"('Environment - Other', 'Environment - Water')",9,1,9.0
+"('Performance Optimization', 'Polish')",3,14,0.21428571428571427
+"('Anime', 'French')",3,15,0.2
+"('Official', 'Polish')",10,14,0.7142857142857143
+"('French', 'Non-Playable Resource')",15,14,1.0714285714285714
+"('New textures', 'French')",198,15,13.2
+"('Body models', 'Saved games')",15,29,0.5172413793103449
+"('Nudity', 'Sexy/Skimpy')",11,6,1.8333333333333333
+"('Sexy/Skimpy', 'English')",6,200,0.03
+"('Performance Optimization', 'French')",3,15,0.2
+"('New models', 'Japanese')",37,14,2.642857142857143
+"('Czech', 'French')",10,15,0.6666666666666666
+"('Humor, Joke or Just for Fun', 'Sexy/Skimpy')",2,6,0.3333333333333333
+"('Body models', 'Sexy/Skimpy')",15,6,2.5
+"('Audio - Sound FX', 'English')",1,200,0.005
+"('French', 'Other languages')",15,11,1.3636363636363635
+"('Performance Optimization', 'Environment - Other')",3,9,0.3333333333333333
+"('Face models', 'Skills')",127,29,4.379310344827586
+"('Skills', 'Italian')",29,14,2.0714285714285716
+"('Utilities for Modders', 'Utilities for Players')",5,14,0.35714285714285715
+"('Humor, Joke or Just for Fun', 'Saved games')",2,29,0.06896551724137931
+"('English', 'Utilities for Modders')",200,5,40.0
+"('Compilation', 'Spanish')",4,15,0.26666666666666666
+"('English', 'Tutorials for Players')",200,9,22.22222222222222
+"('Saved games', 'Sexy/Skimpy')",29,6,4.833333333333333
+"('Skills', 'Russian')",29,25,1.16
+"('Face models', 'Utilities for Players')",127,14,9.071428571428571
+"('Gameplay Effects/Changes', 'Official')",118,10,11.8
+"('English', 'Italian')",200,14,14.285714285714286
+"('Environment - Sky', 'New textures')",1,198,0.005050505050505051
+"('Japanese', 'Non-Playable Resource')",14,14,1.0
+"('Italian', 'Non-Playable Resource')",14,14,1.0
+"('Scripted Events', 'Utilities for Players')",1,14,0.07142857142857142
+"('Saved games', 'Tutorials for Players')",29,9,3.2222222222222223
+"('Saved games', 'Tutorials for Modders')",29,8,3.625
+"('Skills', 'Polish')",29,14,2.0714285714285716
+"('Body models', 'English')",15,200,0.075
+"('Gameplay Effects/Changes', 'Spanish')",118,15,7.866666666666666
+"('Compilation', 'Audio - Music')",4,2,2.0
+"('New models', 'Sexy/Skimpy')",37,6,6.166666666666667
+"('Compilation', 'French')",4,15,0.26666666666666666
+"('Czech', 'Japanese')",10,14,0.7142857142857143
+"('Anime', 'Polish')",3,14,0.21428571428571427
+"('New textures', 'English')",198,200,0.99
+"(""Modder's Resource"", 'Utilities for Modders')",20,5,4.0
+"('French', 'Japanese')",15,14,1.0714285714285714
+"('Face models', 'French')",127,15,8.466666666666667
+"('Audio - Sound FX', 'Utilities for Modders')",1,5,0.2
+"('Skills', 'User Interface')",29,13,2.230769230769231
+"('Environment - Other', 'New models')",9,37,0.24324324324324326
+"('Face models', 'Saved games')",127,29,4.379310344827586
+"('Czech', 'Spanish')",10,15,0.6666666666666666
+"('Official', 'New textures')",10,198,0.050505050505050504
+"('Compilation', 'Polish')",4,14,0.2857142857142857
+"('Italian', 'Russian')",14,25,0.56
+"('Performance Optimization', 'New models')",3,37,0.08108108108108109
+"('New models', 'Italian')",37,14,2.642857142857143
+"('Body models', 'Tutorials for Modders')",15,8,1.875
+"('Body models', 'New models')",15,37,0.40540540540540543
+"('Official', 'Skills')",10,29,0.3448275862068966
+"('Gameplay Effects/Changes', 'Skills')",118,29,4.068965517241379
+"('Compilation', 'German')",4,14,0.2857142857142857
+"('Gameplay Effects/Changes', ""Modder's Resource"")",118,20,5.9
+"('New models', 'Utilities for Modders')",37,5,7.4
+"('Environment - Other', 'English')",9,200,0.045
+"('Tutorials for Players', 'Utilities for Modders')",9,5,1.8
+"('Body models', 'Humor, Joke or Just for Fun')",15,2,7.5
+"('Official', 'Russian')",10,25,0.4
+"('Spanish', 'Non-Playable Resource')",15,14,1.0714285714285714
+"('Environment - Other', 'Face models')",9,127,0.07086614173228346
+"('Environment - Other', 'Environment - Sky')",9,1,9.0
+"('Face models', 'Russian')",127,25,5.08
+"('Skills', 'Czech')",29,10,2.9
+"('German', 'Polish')",14,14,1.0
+"(""Modder's Resource"", 'Tutorials for Modders')",20,8,2.5
+"('Compilation', 'Czech')",4,10,0.4
+"('Audio - Music', 'Utilities for Players')",2,14,0.14285714285714285
+"('Face models', 'Utilities for Modders')",127,5,25.4
+"('New textures', 'Russian')",198,25,7.92
+"('Performance Optimization', 'German')",3,14,0.21428571428571427
+"('Face models', 'Polish')",127,14,9.071428571428571
+"('Body models', 'Face models')",15,127,0.11811023622047244
+"('Sexy/Skimpy', 'Utilities for Modders')",6,5,1.2
+"('Skills', 'Utilities for Players')",29,14,2.0714285714285716
+"('English', 'Tutorials for Modders')",200,8,25.0
+"('Saved games', 'English')",29,200,0.145
+"('Czech', 'German')",10,14,0.7142857142857143
+"('German', 'Russian')",14,25,0.56
+"('German', 'Italian')",14,14,1.0
+"('New textures', 'Anime')",198,3,66.0
+"('Czech', 'Other languages')",10,11,0.9090909090909091
+"('Italian', 'Polish')",14,14,1.0
+"(""Modder's Resource"", 'Utilities for Players')",20,14,1.4285714285714286
+"('Sexy/Skimpy', 'Utilities for Players')",6,14,0.42857142857142855
+"('Compilation', 'Russian')",4,25,0.16
+"('Compilation', 'Non-Playable Resource')",4,14,0.2857142857142857
+"('Humor, Joke or Just for Fun', ""Modder's Resource"")",2,20,0.1
+"('Humor, Joke or Just for Fun', 'Utilities for Players')",2,14,0.14285714285714285
+"('Gameplay Effects/Changes', 'Saved games')",118,29,4.068965517241379
+"('New models', 'Non-Playable Resource')",37,14,2.642857142857143
+"('Performance Optimization', 'Czech')",3,10,0.3
+"('English', 'Japanese')",200,14,14.285714285714286
+"('Quests', 'Tutorials for Modders')",2,8,0.25
+"('Body models', 'Utilities for Modders')",15,5,3.0
+"('English', 'Spanish')",200,15,13.333333333333334
+"('English', 'User Interface')",200,13,15.384615384615385
+"('Anime', 'Russian')",3,25,0.12
+"('Polish', 'Russian')",14,25,0.56
+"('New models', 'Tutorials for Modders')",37,8,4.625
+"('Compilation', 'Official')",4,10,0.4
+"('Official', 'Anime')",10,3,3.3333333333333335
+"('Quests', 'Utilities for Modders')",2,5,0.4
+"('Russian', 'Spanish')",25,15,1.6666666666666667
+"('Czech', 'Italian')",10,14,0.7142857142857143
+"('Compilation', 'Other languages')",4,11,0.36363636363636365
+"('Gameplay Effects/Changes', 'English')",118,200,0.59
+"('Skills', 'Other languages')",29,11,2.6363636363636362
+"('French', 'Italian')",15,14,1.0714285714285714
+"('Saved games', 'Non-Playable Resource')",29,14,2.0714285714285716
+"('Japanese', 'Polish')",14,14,1.0
+"('French', 'Spanish')",15,15,1.0
+"('Official', 'Czech')",10,10,1.0
+"('Compilation', 'Gameplay Effects/Changes')",4,118,0.03389830508474576
+"('New models', 'Czech')",37,10,3.7
+"(""Modder's Resource"", 'User Interface')",20,13,1.5384615384615385
+"('Face models', 'Nudity')",127,11,11.545454545454545
+"('Gameplay Effects/Changes', 'Body models')",118,15,7.866666666666666
+"('Audio - Sound FX', ""Modder's Resource"")",1,20,0.05
+"('New models', 'English')",37,200,0.185
+"('Face models', 'German')",127,14,9.071428571428571
+"('Gameplay Effects/Changes', 'Polish')",118,14,8.428571428571429
+"('Official', 'French')",10,15,0.6666666666666666
+"('Quests', 'English')",2,200,0.01
+"('New models', 'Tutorials for Players')",37,9,4.111111111111111
+"('Compilation', 'Italian')",4,14,0.2857142857142857
+"('Sexy/Skimpy', 'Tutorials for Modders')",6,8,0.75
+"('English', 'Utilities for Players')",200,14,14.285714285714286
+"('Quests', 'User Interface')",2,13,0.15384615384615385
+"('Gameplay Effects/Changes', 'Face models')",118,127,0.9291338582677166
+"('Anime', 'German')",3,14,0.21428571428571427
+"('French', 'Polish')",15,14,1.0714285714285714
+"('Face models', 'English')",127,200,0.635
+"('Italian', 'Other languages')",14,11,1.2727272727272727
+"('Gameplay Effects/Changes', 'Czech')",118,10,11.8
+"('English', 'French')",200,15,13.333333333333334
+"('Official', 'English')",10,200,0.05
+"('User Interface', 'Utilities for Modders')",13,5,2.6
+"('French', 'German')",15,14,1.0714285714285714
+"('Humor, Joke or Just for Fun', 'Tutorials for Players')",2,9,0.2222222222222222
+"('Audio - Music', ""Modder's Resource"")",2,20,0.1
+"('New textures', 'Italian')",198,14,14.142857142857142
+"('New textures', 'Nudity')",198,11,18.0
+"('Other languages', 'Russian')",11,25,0.44
+"('English', ""Modder's Resource"")",200,20,10.0
+"('New textures', 'Japanese')",198,14,14.142857142857142
+"('Gameplay Effects/Changes', 'Other languages')",118,11,10.727272727272727
+"('New models', 'Polish')",37,14,2.642857142857143
+"('German', 'Japanese')",14,14,1.0
+"('Quests', ""Modder's Resource"")",2,20,0.1
+"('Quests', 'Saved games')",2,29,0.06896551724137931
+"('Compilation', 'English')",4,200,0.02
+"('Gameplay Effects/Changes', 'Utilities for Players')",118,14,8.428571428571429
+"('Japanese', 'Spanish')",14,15,0.9333333333333333
+"('Polish', 'Non-Playable Resource')",14,14,1.0
+"('Scripted Events', 'Skills')",1,29,0.034482758620689655
+"('Official', 'Performance Optimization')",10,3,3.3333333333333335
+"('Saved games', ""Modder's Resource"")",29,20,1.45
+"(""Modder's Resource"", 'Tutorials for Players')",20,9,2.2222222222222223
+"('Audio - Music', 'Audio - Sound FX')",2,1,2.0
+"('Gameplay Effects/Changes', 'Environment - Other')",118,9,13.11111111111111
+"('New textures', 'Sexy/Skimpy')",198,6,33.0
+"('Body models', 'Nudity')",15,11,1.3636363636363635
+"('Face models', 'New models')",127,37,3.4324324324324325
+"('Face models', 'Japanese')",127,14,9.071428571428571
+"('New textures', 'German')",198,14,14.142857142857142
