@@ -1,189 +1,189 @@
-Tag_Tuple,Tag1_Count,Tag2_Count,P(Tag1),P(Tag2),P(Tag1 AND Tag2),P(Tag1 OR Tag2)
-"('New textures', 'English')",227,298,0.14856,0.195026,0.066754,0.343586
-"('Compilation', 'Saved games')",7,249,0.004581,0.162958,0.000654,0.167539
-"('Compilation', 'New textures')",7,227,0.004581,0.14856,0.001309,0.153141
-"('Face models', 'Skills')",107,6,0.070026,0.003927,0.000654,0.073953
-"('New models', 'Non-Playable Resource')",65,6,0.042539,0.003927,0.000654,0.046466
-"('Saved games', 'English')",249,298,0.162958,0.195026,0.058246,0.357984
-"('New models', 'Skills')",65,6,0.042539,0.003927,0.001309,0.046466
-"('Face models', 'Nudity')",107,2,0.070026,0.001309,0.000654,0.071335
-"('New models', 'English')",65,298,0.042539,0.195026,0.027487,0.237565
-"('Sexy/Skimpy', 'Utilities for Players')",11,27,0.007199,0.01767,0.000654,0.024869
-"('Compilation', 'Utilities for Players')",7,27,0.004581,0.01767,0.000654,0.022251
-"('Performance Optimization', 'Environment - Other')",2,11,0.001309,0.007199,0.000654,0.008508
-"('New textures', 'Saved games')",227,249,0.14856,0.162958,0.001309,0.311518
-"('Gameplay Effects/Changes', 'Non-Playable Resource')",57,6,0.037304,0.003927,0.001309,0.04123
-"('New models', 'Sexy/Skimpy')",65,11,0.042539,0.007199,0.001963,0.049738
-"('Saved games', ""Modder's Resource"")",249,23,0.162958,0.015052,0.003927,0.17801
-"('Sexy/Skimpy', 'English')",11,298,0.007199,0.195026,0.002618,0.202225
-"('English', 'Spanish')",298,4,0.195026,0.002618,0.001309,0.197644
-"(""Modder's Resource"", 'Utilities for Players')",23,27,0.015052,0.01767,0.002618,0.032723
-"('Environment - Weather', 'English')",2,298,0.001309,0.195026,0.000654,0.196335
-"('New models', ""Modder's Resource"")",65,23,0.042539,0.015052,0.001963,0.057592
-"('Body models', 'Saved games')",22,249,0.014398,0.162958,0.002618,0.177356
-"('English', 'Non-Playable Resource')",298,6,0.195026,0.003927,0.001309,0.198953
-"('Humor, Joke or Just for Fun', 'Sexy/Skimpy')",5,11,0.003272,0.007199,0.000654,0.010471
-"('English', 'Polish')",298,8,0.195026,0.005236,0.005236,0.200262
-"('Body models', 'New textures')",22,227,0.014398,0.14856,0.004581,0.162958
-"('Gameplay Effects/Changes', 'Nudity')",57,2,0.037304,0.001309,0.000654,0.038613
-"('Anime', 'Utilities for Players')",3,27,0.001963,0.01767,0.000654,0.019634
-"('Performance Optimization', 'English')",2,298,0.001309,0.195026,0.000654,0.196335
-"('Skills', 'English')",6,298,0.003927,0.195026,0.000654,0.198953
-"('Non-Playable Resource', 'Tutorials for Modders')",6,9,0.003927,0.00589,0.000654,0.009817
-"('Non-Playable Resource', 'Utilities for Players')",6,27,0.003927,0.01767,0.001963,0.021597
-"('Face models', 'Italian')",107,4,0.070026,0.002618,0.001963,0.072644
-"('English', 'French')",298,4,0.195026,0.002618,0.001309,0.197644
-"('Face models', 'Translation')",107,5,0.070026,0.003272,0.000654,0.073298
-"('Gameplay Effects/Changes', 'Performance Optimization')",57,2,0.037304,0.001309,0.000654,0.038613
-"('Face models', 'Non-Playable Resource')",107,6,0.070026,0.003927,0.001309,0.073953
-"('New textures', 'Nudity')",227,2,0.14856,0.001309,0.000654,0.149869
-"('Audio - Sound FX', 'Scripted Events')",1,3,0.000654,0.001963,0.000654,0.002618
-"('New textures', 'Humor, Joke or Just for Fun')",227,5,0.14856,0.003272,0.000654,0.151832
-"(""Modder's Resource"", 'Tutorials for Modders')",23,9,0.015052,0.00589,0.003272,0.020942
-"('Environment - Water', 'English')",2,298,0.001309,0.195026,0.000654,0.196335
-"('Unrealistic', 'Utilities for Players')",5,27,0.003272,0.01767,0.000654,0.020942
-"('Gameplay Effects/Changes', 'Utilities for Modders')",57,8,0.037304,0.005236,0.002618,0.042539
-"('Face models', 'Polish')",107,8,0.070026,0.005236,0.003272,0.075262
-"('Gameplay Effects/Changes', 'Environment - Sky')",57,2,0.037304,0.001309,0.000654,0.038613
-"('Saved games', 'Tutorials for Modders')",249,9,0.162958,0.00589,0.001963,0.168848
-"('Saved games', 'Unrealistic')",249,5,0.162958,0.003272,0.000654,0.16623
-"('Sexy/Skimpy', 'Tutorials for Modders')",11,9,0.007199,0.00589,0.001309,0.013089
-"('Translation', 'French')",5,4,0.003272,0.002618,0.000654,0.00589
-"('Compilation', 'Performance Optimization')",7,2,0.004581,0.001309,0.000654,0.00589
-"('Gameplay Effects/Changes', 'Skills')",57,6,0.037304,0.003927,0.003272,0.04123
-"('Gameplay Effects/Changes', 'New models')",57,65,0.037304,0.042539,0.003927,0.079843
-"('Body models', 'Translation')",22,5,0.014398,0.003272,0.000654,0.01767
-"('Nudity', 'Spanish')",2,4,0.001309,0.002618,0.000654,0.003927
-"('Saved games', 'Translation')",249,5,0.162958,0.003272,0.000654,0.16623
-"('Scripted Events', 'English')",3,298,0.001963,0.195026,0.001309,0.19699
-"('Tutorials for Players', 'Utilities for Players')",14,27,0.009162,0.01767,0.003272,0.026832
-"(""Modder's Resource"", 'Tutorials for Players')",23,14,0.015052,0.009162,0.001309,0.024215
-"('New textures', 'French')",227,4,0.14856,0.002618,0.000654,0.151178
-"('Gameplay Effects/Changes', 'German')",57,3,0.037304,0.001963,0.000654,0.039267
-"('New models', 'Tutorials for Modders')",65,9,0.042539,0.00589,0.001963,0.048429
-"('Face models', 'New textures')",107,227,0.070026,0.14856,0.01767,0.218586
-"('New textures', 'Tutorials for Modders')",227,9,0.14856,0.00589,0.001963,0.15445
-"('Face models', 'English')",107,298,0.070026,0.195026,0.024869,0.265052
-"('Gameplay Effects/Changes', 'Official')",57,2,0.037304,0.001309,0.001309,0.038613
-"(""Modder's Resource"", 'User Interface')",23,7,0.015052,0.004581,0.001309,0.019634
-"('Body models', 'Spanish')",22,4,0.014398,0.002618,0.001963,0.017016
-"('Environment - Sky', 'Environment - Weather')",2,2,0.001309,0.001309,0.001309,0.002618
-"('Face models', 'New models')",107,65,0.070026,0.042539,0.005236,0.112565
-"('User Interface', 'Utilities for Players')",7,27,0.004581,0.01767,0.000654,0.022251
-"('New models', 'Saved games')",65,249,0.042539,0.162958,0.004581,0.205497
-"('Utilities for Modders', 'Utilities for Players')",8,27,0.005236,0.01767,0.002618,0.022906
-"('Compilation', 'Translation')",7,5,0.004581,0.003272,0.000654,0.007853
-"('Gameplay Effects/Changes', 'Spanish')",57,4,0.037304,0.002618,0.001309,0.039921
-"('Gameplay Effects/Changes', 'Environment - Other')",57,11,0.037304,0.007199,0.000654,0.044503
-"('New textures', 'Utilities for Players')",227,27,0.14856,0.01767,0.001309,0.16623
-"('New textures', 'User Interface')",227,7,0.14856,0.004581,0.001309,0.153141
-"('Environment - Other', 'New textures')",11,227,0.007199,0.14856,0.002618,0.155759
-"('Environment - Sky', 'Environment - Water')",2,2,0.001309,0.001309,0.001309,0.002618
-"('New textures', ""Modder's Resource"")",227,23,0.14856,0.015052,0.004581,0.163613
-"('Body models', 'Nudity')",22,2,0.014398,0.001309,0.000654,0.015707
-"('Saved games', 'Utilities for Players')",249,27,0.162958,0.01767,0.007853,0.180628
-"('English', 'Russian')",298,5,0.195026,0.003272,0.001963,0.198298
-"('Compilation', 'Gameplay Effects/Changes')",7,57,0.004581,0.037304,0.000654,0.041885
-"('Saved games', 'Spanish')",249,4,0.162958,0.002618,0.001309,0.165576
-"('New textures', 'Russian')",227,5,0.14856,0.003272,0.001963,0.151832
-"('New models', 'Utilities for Players')",65,27,0.042539,0.01767,0.001309,0.060209
-"('Humor, Joke or Just for Fun', 'English')",5,298,0.003272,0.195026,0.000654,0.198298
-"('Compilation', 'Tutorials for Players')",7,14,0.004581,0.009162,0.000654,0.013743
-"('Body models', 'New models')",22,65,0.014398,0.042539,0.006545,0.056937
-"('Compilation', 'Environment - Other')",7,11,0.004581,0.007199,0.000654,0.01178
-"('Gameplay Effects/Changes', 'Scripted Events')",57,3,0.037304,0.001963,0.000654,0.039267
-"('Gameplay Effects/Changes', 'French')",57,4,0.037304,0.002618,0.000654,0.039921
-"('Nudity', 'Sexy/Skimpy')",2,11,0.001309,0.007199,0.000654,0.008508
-"('Compilation', 'Body models')",7,22,0.004581,0.014398,0.000654,0.018979
-"('Official', 'English')",2,298,0.001309,0.195026,0.000654,0.196335
-"('Saved games', 'German')",249,3,0.162958,0.001963,0.001309,0.164921
-"('English', 'Utilities for Modders')",298,8,0.195026,0.005236,0.004581,0.200262
-"('English', 'Italian')",298,4,0.195026,0.002618,0.002618,0.197644
-"('Body models', 'Sexy/Skimpy')",22,11,0.014398,0.007199,0.002618,0.021597
-"('Translation', 'Tutorials for Players')",5,14,0.003272,0.009162,0.000654,0.012435
-"('Compilation', 'Official')",7,2,0.004581,0.001309,0.000654,0.00589
-"('New textures', 'Utilities for Modders')",227,8,0.14856,0.005236,0.001309,0.153796
-"('Body models', 'French')",22,4,0.014398,0.002618,0.000654,0.017016
-"('German', 'Utilities for Players')",3,27,0.001963,0.01767,0.000654,0.019634
-"('English', 'Tutorials for Players')",298,14,0.195026,0.009162,0.006545,0.204188
-"('Environment - Water', 'French')",2,4,0.001309,0.002618,0.000654,0.003927
-"('Scripted Events', 'Skills')",3,6,0.001963,0.003927,0.000654,0.00589
-"('New models', 'Spanish')",65,4,0.042539,0.002618,0.001309,0.045157
-"('Anime', 'Unrealistic')",3,5,0.001963,0.003272,0.000654,0.005236
-"('Unrealistic', 'English')",5,298,0.003272,0.195026,0.001309,0.198298
-"('Official', 'Performance Optimization')",2,2,0.001309,0.001309,0.000654,0.002618
-"('New textures', 'Sexy/Skimpy')",227,11,0.14856,0.007199,0.001309,0.155759
-"('Environment - Water', 'Environment - Weather')",2,2,0.001309,0.001309,0.001309,0.002618
-"('Gameplay Effects/Changes', 'Saved games')",57,249,0.037304,0.162958,0.002618,0.200262
-"('Gameplay Effects/Changes', 'User Interface')",57,7,0.037304,0.004581,0.000654,0.041885
-"('Compilation', 'English')",7,298,0.004581,0.195026,0.002618,0.199607
-"('English', 'User Interface')",298,7,0.195026,0.004581,0.001963,0.199607
-"('Sexy/Skimpy', 'Unrealistic')",11,5,0.007199,0.003272,0.000654,0.010471
-"('Gameplay Effects/Changes', 'Environment - Water')",57,2,0.037304,0.001309,0.000654,0.038613
-"('New models', 'Polish')",65,8,0.042539,0.005236,0.000654,0.047775
-"('Humor, Joke or Just for Fun', 'Saved games')",5,249,0.003272,0.162958,0.001309,0.16623
-"('Face models', 'Spanish')",107,4,0.070026,0.002618,0.001309,0.072644
-"('New models', 'New textures')",65,227,0.042539,0.14856,0.005236,0.191099
-"('Gameplay Effects/Changes', 'New textures')",57,227,0.037304,0.14856,0.004581,0.185864
-"('Body models', 'English')",22,298,0.014398,0.195026,0.009162,0.209424
-"('Environment - Other', 'Environment - Weather')",11,2,0.007199,0.001309,0.001309,0.008508
-"('Face models', 'Sexy/Skimpy')",107,11,0.070026,0.007199,0.001309,0.077225
-"('Nudity', 'Unrealistic')",2,5,0.001309,0.003272,0.000654,0.004581
-"('Saved games', 'Russian')",249,5,0.162958,0.003272,0.001309,0.16623
-"('Environment - Other', 'French')",11,4,0.007199,0.002618,0.000654,0.009817
-"('Skills', 'Saved games')",6,249,0.003927,0.162958,0.000654,0.166885
-"('Body models', 'Utilities for Players')",22,27,0.014398,0.01767,0.000654,0.032068
-"('Gameplay Effects/Changes', 'Body models')",57,22,0.037304,0.014398,0.003272,0.051702
-"('Body models', ""Modder's Resource"")",22,23,0.014398,0.015052,0.001963,0.02945
-"('New textures', 'Polish')",227,8,0.14856,0.005236,0.003927,0.153796
-"('Non-Playable Resource', 'Tutorials for Players')",6,14,0.003927,0.009162,0.000654,0.013089
-"('Gameplay Effects/Changes', ""Modder's Resource"")",57,23,0.037304,0.015052,0.001309,0.052356
-"('Environment - Sky', 'French')",2,4,0.001309,0.002618,0.000654,0.003927
-"('Environment - Other', 'Environment - Sky')",11,2,0.007199,0.001309,0.001309,0.008508
-"('Sexy/Skimpy', 'Spanish')",11,4,0.007199,0.002618,0.001963,0.009817
-"('Environment - Other', 'English')",11,298,0.007199,0.195026,0.002618,0.202225
-"('Tutorials for Modders', 'Utilities for Modders')",9,8,0.00589,0.005236,0.000654,0.011126
-"('Body models', 'Face models')",22,107,0.014398,0.070026,0.005236,0.084424
-"('Gameplay Effects/Changes', 'Tutorials for Modders')",57,9,0.037304,0.00589,0.001309,0.043194
-"('English', 'German')",298,3,0.195026,0.001963,0.001309,0.19699
-"('Face models', 'French')",107,4,0.070026,0.002618,0.000654,0.072644
-"('Saved games', 'Utilities for Modders')",249,8,0.162958,0.005236,0.001309,0.168194
-"('Gameplay Effects/Changes', 'Face models')",57,107,0.037304,0.070026,0.003272,0.10733
-"('English', 'Utilities for Players')",298,27,0.195026,0.01767,0.012435,0.212696
-"('New textures', 'Unrealistic')",227,5,0.14856,0.003272,0.000654,0.151832
-"('Gameplay Effects/Changes', 'English')",57,298,0.037304,0.195026,0.019634,0.23233
-"('Saved games', 'Italian')",249,4,0.162958,0.002618,0.002618,0.165576
-"('Gameplay Effects/Changes', 'Tutorials for Players')",57,14,0.037304,0.009162,0.000654,0.046466
-"('New textures', 'Tutorials for Players')",227,14,0.14856,0.009162,0.000654,0.157723
-"('English', ""Modder's Resource"")",298,23,0.195026,0.015052,0.012435,0.210079
-"('Spanish', ""Modder's Resource"")",4,23,0.002618,0.015052,0.000654,0.01767
-"('Environment - Other', 'Environment - Water')",11,2,0.007199,0.001309,0.001309,0.008508
-"('Gameplay Effects/Changes', 'Utilities for Players')",57,27,0.037304,0.01767,0.00589,0.054974
-"('Saved games', 'Tutorials for Players')",249,14,0.162958,0.009162,0.003927,0.17212
-"('Translation', 'English')",5,298,0.003272,0.195026,0.001309,0.198298
-"('Face models', 'Tutorials for Modders')",107,9,0.070026,0.00589,0.001963,0.075916
-"('User Interface', 'Utilities for Modders')",7,8,0.004581,0.005236,0.000654,0.009817
-"('Gameplay Effects/Changes', 'Environment - Weather')",57,2,0.037304,0.001309,0.000654,0.038613
-"('Saved games', 'French')",249,4,0.162958,0.002618,0.000654,0.165576
-"('Official', 'Face models')",2,107,0.001309,0.070026,0.000654,0.071335
-"('New textures', 'Non-Playable Resource')",227,6,0.14856,0.003927,0.000654,0.152487
-"('Face models', ""Modder's Resource"")",107,23,0.070026,0.015052,0.003927,0.085079
-"('Saved games', 'Sexy/Skimpy')",249,11,0.162958,0.007199,0.003927,0.170157
-"('Translation', 'Utilities for Players')",5,27,0.003272,0.01767,0.000654,0.020942
-"('New textures', 'Translation')",227,5,0.14856,0.003272,0.000654,0.151832
-"('Sexy/Skimpy', ""Modder's Resource"")",11,23,0.007199,0.015052,0.001309,0.022251
-"('Face models', 'Saved games')",107,249,0.070026,0.162958,0.015052,0.232984
-"('Face models', 'Utilities for Players')",107,27,0.070026,0.01767,0.001309,0.087696
-"('Environment - Weather', 'French')",2,4,0.001309,0.002618,0.000654,0.003927
-"('Tutorials for Players', 'Utilities for Modders')",14,8,0.009162,0.005236,0.000654,0.014398
-"('Audio - Sound FX', 'English')",1,298,0.000654,0.195026,0.000654,0.195681
-"('Anime', 'Humor, Joke or Just for Fun')",3,5,0.001963,0.003272,0.000654,0.005236
-"('Compilation', 'Non-Playable Resource')",7,6,0.004581,0.003927,0.000654,0.008508
-"(""Modder's Resource"", 'Utilities for Modders')",23,8,0.015052,0.005236,0.003927,0.020288
-"('Gameplay Effects/Changes', 'Sexy/Skimpy')",57,11,0.037304,0.007199,0.001309,0.044503
-"('Saved games', 'Polish')",249,8,0.162958,0.005236,0.001309,0.168194
-"('Tutorials for Modders', 'Utilities for Players')",9,27,0.00589,0.01767,0.001309,0.02356
-"('Body models', 'Tutorials for Modders')",22,9,0.014398,0.00589,0.001963,0.020288
-"('Environment - Sky', 'English')",2,298,0.001309,0.195026,0.000654,0.196335
-"('English', 'Tutorials for Modders')",298,9,0.195026,0.00589,0.003272,0.200916
-"('New textures', 'Spanish')",227,4,0.14856,0.002618,0.000654,0.151178
+Tag_Tuple,Tag1_Count,Tag2_Count,Co-Occurency_Count,P(Tag1),P(Tag2),P(Tag1 AND Tag2),P(Tag1 OR Tag2)
+"('Gameplay Effects/Changes', 'Tutorials for Modders')",57,9,2,0.037304,0.00589,0.001309,0.043194
+"('Compilation', 'Utilities for Players')",7,27,1,0.004581,0.01767,0.000654,0.022251
+"('Audio - Sound FX', 'Scripted Events')",1,3,1,0.000654,0.001963,0.000654,0.002618
+"('Compilation', 'Non-Playable Resource')",7,6,1,0.004581,0.003927,0.000654,0.008508
+"('Face models', 'Utilities for Players')",107,27,2,0.070026,0.01767,0.001309,0.087696
+"('Nudity', 'Spanish')",2,4,1,0.001309,0.002618,0.000654,0.003927
+"('Gameplay Effects/Changes', 'French')",57,4,1,0.037304,0.002618,0.000654,0.039921
+"('Compilation', 'Body models')",7,22,1,0.004581,0.014398,0.000654,0.018979
+"('English', 'French')",298,4,2,0.195026,0.002618,0.001309,0.197644
+"('Saved games', 'Utilities for Modders')",249,8,2,0.162958,0.005236,0.001309,0.168194
+"(""Modder's Resource"", 'Utilities for Modders')",23,8,6,0.015052,0.005236,0.003927,0.020288
+"('Utilities for Modders', 'Utilities for Players')",8,27,4,0.005236,0.01767,0.002618,0.022906
+"('Environment - Other', 'Environment - Weather')",11,2,2,0.007199,0.001309,0.001309,0.008508
+"('New textures', 'Translation')",227,5,1,0.14856,0.003272,0.000654,0.151832
+"('Saved games', 'Unrealistic')",249,5,1,0.162958,0.003272,0.000654,0.16623
+"('Saved games', 'Translation')",249,5,1,0.162958,0.003272,0.000654,0.16623
+"('Sexy/Skimpy', ""Modder's Resource"")",11,23,2,0.007199,0.015052,0.001309,0.022251
+"('User Interface', 'Utilities for Players')",7,27,1,0.004581,0.01767,0.000654,0.022251
+"('Non-Playable Resource', 'Tutorials for Modders')",6,9,1,0.003927,0.00589,0.000654,0.009817
+"('Gameplay Effects/Changes', 'German')",57,3,1,0.037304,0.001963,0.000654,0.039267
+"('Compilation', 'Official')",7,2,1,0.004581,0.001309,0.000654,0.00589
+"('Non-Playable Resource', 'Utilities for Players')",6,27,3,0.003927,0.01767,0.001963,0.021597
+"('English', 'Tutorials for Players')",298,14,10,0.195026,0.009162,0.006545,0.204188
+"('Saved games', 'Italian')",249,4,4,0.162958,0.002618,0.002618,0.165576
+"('Environment - Weather', 'French')",2,4,1,0.001309,0.002618,0.000654,0.003927
+"('Body models', 'Utilities for Players')",22,27,1,0.014398,0.01767,0.000654,0.032068
+"('New textures', 'Spanish')",227,4,1,0.14856,0.002618,0.000654,0.151178
+"('New textures', 'Sexy/Skimpy')",227,11,2,0.14856,0.007199,0.001309,0.155759
+"('New textures', 'Non-Playable Resource')",227,6,1,0.14856,0.003927,0.000654,0.152487
+"('Tutorials for Modders', 'Utilities for Modders')",9,8,1,0.00589,0.005236,0.000654,0.011126
+"('English', 'German')",298,3,2,0.195026,0.001963,0.001309,0.19699
+"('Tutorials for Modders', 'Utilities for Players')",9,27,2,0.00589,0.01767,0.001309,0.02356
+"('Compilation', 'Translation')",7,5,1,0.004581,0.003272,0.000654,0.007853
+"('Skills', 'English')",6,298,1,0.003927,0.195026,0.000654,0.198953
+"('Face models', 'Translation')",107,5,1,0.070026,0.003272,0.000654,0.073298
+"(""Modder's Resource"", 'Tutorials for Players')",23,14,2,0.015052,0.009162,0.001309,0.024215
+"('New models', 'Polish')",65,8,1,0.042539,0.005236,0.000654,0.047775
+"('New textures', 'Saved games')",227,249,2,0.14856,0.162958,0.001309,0.311518
+"('User Interface', 'Utilities for Modders')",7,8,1,0.004581,0.005236,0.000654,0.009817
+"('Body models', 'Sexy/Skimpy')",22,11,4,0.014398,0.007199,0.002618,0.021597
+"('Environment - Sky', 'Environment - Water')",2,2,2,0.001309,0.001309,0.001309,0.002618
+"('Body models', ""Modder's Resource"")",22,23,3,0.014398,0.015052,0.001963,0.02945
+"('New models', 'Saved games')",65,249,7,0.042539,0.162958,0.004581,0.205497
+"('Gameplay Effects/Changes', 'Saved games')",57,249,4,0.037304,0.162958,0.002618,0.200262
+"('Gameplay Effects/Changes', 'New models')",57,65,6,0.037304,0.042539,0.003927,0.079843
+"('New textures', 'Polish')",227,8,6,0.14856,0.005236,0.003927,0.153796
+"('Unrealistic', 'English')",5,298,2,0.003272,0.195026,0.001309,0.198298
+"('New textures', 'French')",227,4,1,0.14856,0.002618,0.000654,0.151178
+"('New textures', 'Unrealistic')",227,5,1,0.14856,0.003272,0.000654,0.151832
+"('Gameplay Effects/Changes', 'Body models')",57,22,5,0.037304,0.014398,0.003272,0.051702
+"('Performance Optimization', 'English')",2,298,1,0.001309,0.195026,0.000654,0.196335
+"(""Modder's Resource"", 'Tutorials for Modders')",23,9,5,0.015052,0.00589,0.003272,0.020942
+"('Nudity', 'Sexy/Skimpy')",2,11,1,0.001309,0.007199,0.000654,0.008508
+"('Environment - Other', 'Environment - Water')",11,2,2,0.007199,0.001309,0.001309,0.008508
+"('Compilation', 'New textures')",7,227,2,0.004581,0.14856,0.001309,0.153141
+"('Non-Playable Resource', 'Tutorials for Players')",6,14,1,0.003927,0.009162,0.000654,0.013089
+"('Tutorials for Players', 'Utilities for Modders')",14,8,1,0.009162,0.005236,0.000654,0.014398
+"('Gameplay Effects/Changes', 'Environment - Sky')",57,2,1,0.037304,0.001309,0.000654,0.038613
+"('New models', 'Skills')",65,6,2,0.042539,0.003927,0.001309,0.046466
+"('New models', 'Non-Playable Resource')",65,6,1,0.042539,0.003927,0.000654,0.046466
+"('English', 'Spanish')",298,4,2,0.195026,0.002618,0.001309,0.197644
+"('New textures', 'Tutorials for Modders')",227,9,3,0.14856,0.00589,0.001963,0.15445
+"('Environment - Water', 'English')",2,298,1,0.001309,0.195026,0.000654,0.196335
+"('Environment - Other', 'Environment - Sky')",11,2,2,0.007199,0.001309,0.001309,0.008508
+"('New textures', 'Russian')",227,5,3,0.14856,0.003272,0.001963,0.151832
+"('New models', 'Tutorials for Modders')",65,9,3,0.042539,0.00589,0.001963,0.048429
+"('Face models', 'Polish')",107,8,5,0.070026,0.005236,0.003272,0.075262
+"('German', 'Utilities for Players')",3,27,1,0.001963,0.01767,0.000654,0.019634
+"('Face models', ""Modder's Resource"")",107,23,6,0.070026,0.015052,0.003927,0.085079
+"('New models', 'New textures')",65,227,8,0.042539,0.14856,0.005236,0.191099
+"('Compilation', 'English')",7,298,4,0.004581,0.195026,0.002618,0.199607
+"('Skills', 'Saved games')",6,249,1,0.003927,0.162958,0.000654,0.166885
+"('Sexy/Skimpy', 'Utilities for Players')",11,27,1,0.007199,0.01767,0.000654,0.024869
+"('Compilation', 'Saved games')",7,249,1,0.004581,0.162958,0.000654,0.167539
+"('Humor, Joke or Just for Fun', 'Sexy/Skimpy')",5,11,1,0.003272,0.007199,0.000654,0.010471
+"('Compilation', 'Tutorials for Players')",7,14,1,0.004581,0.009162,0.000654,0.013743
+"('Environment - Sky', 'Environment - Weather')",2,2,2,0.001309,0.001309,0.001309,0.002618
+"('Anime', 'Unrealistic')",3,5,1,0.001963,0.003272,0.000654,0.005236
+"('Body models', 'Translation')",22,5,1,0.014398,0.003272,0.000654,0.01767
+"('English', 'Non-Playable Resource')",298,6,2,0.195026,0.003927,0.001309,0.198953
+"('Gameplay Effects/Changes', 'Environment - Water')",57,2,1,0.037304,0.001309,0.000654,0.038613
+"('Saved games', 'Tutorials for Players')",249,14,6,0.162958,0.009162,0.003927,0.17212
+"('Environment - Sky', 'English')",2,298,1,0.001309,0.195026,0.000654,0.196335
+"('Environment - Water', 'French')",2,4,1,0.001309,0.002618,0.000654,0.003927
+"('Face models', 'Tutorials for Modders')",107,9,3,0.070026,0.00589,0.001963,0.075916
+"('Gameplay Effects/Changes', ""Modder's Resource"")",57,23,2,0.037304,0.015052,0.001309,0.052356
+"('Gameplay Effects/Changes', 'Face models')",57,107,5,0.037304,0.070026,0.003272,0.10733
+"('Gameplay Effects/Changes', 'Sexy/Skimpy')",57,11,2,0.037304,0.007199,0.001309,0.044503
+"('Translation', 'Tutorials for Players')",5,14,1,0.003272,0.009162,0.000654,0.012435
+"('Body models', 'French')",22,4,1,0.014398,0.002618,0.000654,0.017016
+"('Saved games', ""Modder's Resource"")",249,23,6,0.162958,0.015052,0.003927,0.17801
+"('Gameplay Effects/Changes', 'Utilities for Modders')",57,8,4,0.037304,0.005236,0.002618,0.042539
+"('Saved games', 'Sexy/Skimpy')",249,11,6,0.162958,0.007199,0.003927,0.170157
+"('Saved games', 'Polish')",249,8,2,0.162958,0.005236,0.001309,0.168194
+"('Gameplay Effects/Changes', 'Performance Optimization')",57,2,1,0.037304,0.001309,0.000654,0.038613
+"('Body models', 'English')",22,298,14,0.014398,0.195026,0.009162,0.209424
+"('English', 'Utilities for Modders')",298,8,7,0.195026,0.005236,0.004581,0.200262
+"('New textures', 'English')",227,298,102,0.14856,0.195026,0.066754,0.343586
+"('Saved games', 'Utilities for Players')",249,27,12,0.162958,0.01767,0.007853,0.180628
+"('Body models', 'Spanish')",22,4,3,0.014398,0.002618,0.001963,0.017016
+"('Sexy/Skimpy', 'Tutorials for Modders')",11,9,2,0.007199,0.00589,0.001309,0.013089
+"('Gameplay Effects/Changes', 'Nudity')",57,2,1,0.037304,0.001309,0.000654,0.038613
+"('Official', 'Face models')",2,107,1,0.001309,0.070026,0.000654,0.071335
+"('Face models', 'Nudity')",107,2,1,0.070026,0.001309,0.000654,0.071335
+"('New models', 'English')",65,298,42,0.042539,0.195026,0.027487,0.237565
+"('Humor, Joke or Just for Fun', 'English')",5,298,1,0.003272,0.195026,0.000654,0.198298
+"('New textures', 'Utilities for Players')",227,27,2,0.14856,0.01767,0.001309,0.16623
+"('Saved games', 'Russian')",249,5,2,0.162958,0.003272,0.001309,0.16623
+"('Anime', 'Utilities for Players')",3,27,1,0.001963,0.01767,0.000654,0.019634
+"('New textures', 'Humor, Joke or Just for Fun')",227,5,1,0.14856,0.003272,0.000654,0.151832
+"('Body models', 'New models')",22,65,10,0.014398,0.042539,0.006545,0.056937
+"('Unrealistic', 'Utilities for Players')",5,27,1,0.003272,0.01767,0.000654,0.020942
+"('English', 'Italian')",298,4,4,0.195026,0.002618,0.002618,0.197644
+"('Face models', 'English')",107,298,38,0.070026,0.195026,0.024869,0.265052
+"('Official', 'Performance Optimization')",2,2,1,0.001309,0.001309,0.000654,0.002618
+"('Humor, Joke or Just for Fun', 'Saved games')",5,249,2,0.003272,0.162958,0.001309,0.16623
+"('Face models', 'French')",107,4,1,0.070026,0.002618,0.000654,0.072644
+"('Saved games', 'German')",249,3,2,0.162958,0.001963,0.001309,0.164921
+"('Scripted Events', 'English')",3,298,2,0.001963,0.195026,0.001309,0.19699
+"('New models', 'Utilities for Players')",65,27,2,0.042539,0.01767,0.001309,0.060209
+"('Performance Optimization', 'Environment - Other')",2,11,1,0.001309,0.007199,0.000654,0.008508
+"('Gameplay Effects/Changes', 'Environment - Other')",57,11,1,0.037304,0.007199,0.000654,0.044503
+"('Gameplay Effects/Changes', 'Utilities for Players')",57,27,9,0.037304,0.01767,0.00589,0.054974
+"('Spanish', ""Modder's Resource"")",4,23,1,0.002618,0.015052,0.000654,0.01767
+"('New textures', 'Nudity')",227,2,1,0.14856,0.001309,0.000654,0.149869
+"('English', 'Russian')",298,5,3,0.195026,0.003272,0.001963,0.198298
+"('Gameplay Effects/Changes', 'User Interface')",57,7,1,0.037304,0.004581,0.000654,0.041885
+"('Tutorials for Players', 'Utilities for Players')",14,27,5,0.009162,0.01767,0.003272,0.026832
+"('New models', 'Sexy/Skimpy')",65,11,3,0.042539,0.007199,0.001963,0.049738
+"('New models', ""Modder's Resource"")",65,23,3,0.042539,0.015052,0.001963,0.057592
+"('Environment - Other', 'French')",11,4,1,0.007199,0.002618,0.000654,0.009817
+"('Body models', 'Saved games')",22,249,4,0.014398,0.162958,0.002618,0.177356
+"('Gameplay Effects/Changes', 'Environment - Weather')",57,2,1,0.037304,0.001309,0.000654,0.038613
+"('Gameplay Effects/Changes', 'English')",57,298,30,0.037304,0.195026,0.019634,0.23233
+"('Translation', 'English')",5,298,2,0.003272,0.195026,0.001309,0.198298
+"('Compilation', 'Performance Optimization')",7,2,1,0.004581,0.001309,0.000654,0.00589
+"('Face models', 'Sexy/Skimpy')",107,11,2,0.070026,0.007199,0.001309,0.077225
+"('Translation', 'French')",5,4,1,0.003272,0.002618,0.000654,0.00589
+"('Face models', 'Non-Playable Resource')",107,6,2,0.070026,0.003927,0.001309,0.073953
+"('English', 'Utilities for Players')",298,27,19,0.195026,0.01767,0.012435,0.212696
+"('New textures', 'Utilities for Modders')",227,8,2,0.14856,0.005236,0.001309,0.153796
+"('New textures', ""Modder's Resource"")",227,23,7,0.14856,0.015052,0.004581,0.163613
+"('Environment - Other', 'New textures')",11,227,4,0.007199,0.14856,0.002618,0.155759
+"('Sexy/Skimpy', 'Spanish')",11,4,3,0.007199,0.002618,0.001963,0.009817
+"('Compilation', 'Environment - Other')",7,11,1,0.004581,0.007199,0.000654,0.01178
+"('New textures', 'Tutorials for Players')",227,14,1,0.14856,0.009162,0.000654,0.157723
+"('English', 'Polish')",298,8,8,0.195026,0.005236,0.005236,0.200262
+"('English', 'Tutorials for Modders')",298,9,5,0.195026,0.00589,0.003272,0.200916
+"('Face models', 'Spanish')",107,4,2,0.070026,0.002618,0.001309,0.072644
+"('Body models', 'New textures')",22,227,7,0.014398,0.14856,0.004581,0.162958
+"('Face models', 'New textures')",107,227,27,0.070026,0.14856,0.01767,0.218586
+"('Saved games', 'English')",249,298,89,0.162958,0.195026,0.058246,0.357984
+"('Environment - Other', 'English')",11,298,4,0.007199,0.195026,0.002618,0.202225
+"(""Modder's Resource"", 'Utilities for Players')",23,27,4,0.015052,0.01767,0.002618,0.032723
+"('Anime', 'Humor, Joke or Just for Fun')",3,5,1,0.001963,0.003272,0.000654,0.005236
+"('Face models', 'Skills')",107,6,1,0.070026,0.003927,0.000654,0.073953
+"('Gameplay Effects/Changes', 'New textures')",57,227,7,0.037304,0.14856,0.004581,0.185864
+"('Gameplay Effects/Changes', 'Skills')",57,6,5,0.037304,0.003927,0.003272,0.04123
+"('Sexy/Skimpy', 'English')",11,298,4,0.007199,0.195026,0.002618,0.202225
+"('English', 'User Interface')",298,7,3,0.195026,0.004581,0.001963,0.199607
+"('Nudity', 'Unrealistic')",2,5,1,0.001309,0.003272,0.000654,0.004581
+"('Audio - Sound FX', 'English')",1,298,1,0.000654,0.195026,0.000654,0.195681
+"('Body models', 'Tutorials for Modders')",22,9,3,0.014398,0.00589,0.001963,0.020288
+"('Gameplay Effects/Changes', 'Non-Playable Resource')",57,6,2,0.037304,0.003927,0.001309,0.04123
+"('English', ""Modder's Resource"")",298,23,19,0.195026,0.015052,0.012435,0.210079
+"('Compilation', 'Gameplay Effects/Changes')",7,57,1,0.004581,0.037304,0.000654,0.041885
+"('Saved games', 'Spanish')",249,4,2,0.162958,0.002618,0.001309,0.165576
+"('Face models', 'Saved games')",107,249,23,0.070026,0.162958,0.015052,0.232984
+"('Environment - Weather', 'English')",2,298,1,0.001309,0.195026,0.000654,0.196335
+"('Gameplay Effects/Changes', 'Official')",57,2,2,0.037304,0.001309,0.001309,0.038613
+"('Gameplay Effects/Changes', 'Tutorials for Players')",57,14,1,0.037304,0.009162,0.000654,0.046466
+"('Gameplay Effects/Changes', 'Spanish')",57,4,2,0.037304,0.002618,0.001309,0.039921
+"(""Modder's Resource"", 'User Interface')",23,7,2,0.015052,0.004581,0.001309,0.019634
+"('Face models', 'Italian')",107,4,3,0.070026,0.002618,0.001963,0.072644
+"('Environment - Sky', 'French')",2,4,1,0.001309,0.002618,0.000654,0.003927
+"('Translation', 'Utilities for Players')",5,27,1,0.003272,0.01767,0.000654,0.020942
+"('Body models', 'Nudity')",22,2,1,0.014398,0.001309,0.000654,0.015707
+"('Scripted Events', 'Skills')",3,6,1,0.001963,0.003927,0.000654,0.00589
+"('Gameplay Effects/Changes', 'Scripted Events')",57,3,1,0.037304,0.001963,0.000654,0.039267
+"('Official', 'English')",2,298,1,0.001309,0.195026,0.000654,0.196335
+"('Sexy/Skimpy', 'Unrealistic')",11,5,1,0.007199,0.003272,0.000654,0.010471
+"('Face models', 'New models')",107,65,8,0.070026,0.042539,0.005236,0.112565
+"('Body models', 'Face models')",22,107,8,0.014398,0.070026,0.005236,0.084424
+"('Saved games', 'Tutorials for Modders')",249,9,3,0.162958,0.00589,0.001963,0.168848
+"('New models', 'Spanish')",65,4,2,0.042539,0.002618,0.001309,0.045157
+"('Environment - Water', 'Environment - Weather')",2,2,2,0.001309,0.001309,0.001309,0.002618
+"('New textures', 'User Interface')",227,7,2,0.14856,0.004581,0.001309,0.153141
+"('Saved games', 'French')",249,4,1,0.162958,0.002618,0.000654,0.165576
