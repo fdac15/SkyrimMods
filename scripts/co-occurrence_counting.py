@@ -28,7 +28,7 @@ tag_total = sum([tag_count for tag_count in tag_counter.values()])
 #next three blocks write a csv file for each cooccurence
 
 header = ['Tag_Tuple', 'Tag1_Count','Tag2_Count','Co-Occurency_Count', 'P1',
-	  'P2', 'P12', 'P1*P2-P12', '|d|/std1','|d|/std2']
+	  'P2', 'P12', 'P1*P2-P12', '|d|/std1','|d|/std2', '|d|/std1+std2']
 writer = csv.DictWriter(f=open(csv_file,'w'), fieldnames=header)
 
 #write the csv file
@@ -48,6 +48,7 @@ for tag in cooccurence_counter.keys():
 		  header[6]: P12,
 		  header[7]: P1*P2-P12,
 		  header[8]: (abs(P1*P2-P12)/sqrt((P1*(1-P1))/tag_total)),
-		  header[9]: (abs(P1*P2-P12)/sqrt((P2*(1-P2))/tag_total))
+		  header[9]: (abs(P1*P2-P12)/sqrt((P2*(1-P2))/tag_total)),
+		  header[10]:(abs(P1*P2-P12)/sqrt(((P2*(1-P2))+(P1*(1-P1)))/tag_total))
 		}
     )
