@@ -1,0 +1,40 @@
+New models:315809
+Body models:94908
+Nudity:104029
+Audio - Music:321
+Environment - Sky:1251
+English:995137
+Italian:41785
+Saved games:121694
+Japanese:41785
+Environment - Other:78704
+French:42393
+Utilities for Modders:18261
+Performance Optimization:14407
+Gameplay Effects/Changes:700802
+Official:33719
+Modder's Resource:186490
+Tutorials for Modders:9412
+Humor, Joke or Just for Fun:7785
+Compilation:10221
+Scripted Events:6909
+Environment - Water:1251
+User Interface:45778
+Tutorials for Players:17472
+Anime:5347
+Translation:140
+Skills:139313
+Audio - Sound FX:209
+Non-Playable Resource:76638
+Spanish:42280
+Russian:113389
+Polish:41785
+New textures:1386661
+Utilities for Players:243107
+Quests:48823
+Sexy/Skimpy:83350
+German:41785
+none:882205
+Other languages:34036
+Face models:534076
+Czech:33719

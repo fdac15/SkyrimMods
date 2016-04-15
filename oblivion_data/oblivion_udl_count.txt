@@ -1,0 +1,106 @@
+New models:12623662
+Clothing:6755286
+Audio - Music:1645712
+Performance Optimization:3994545
+English:35744927
+Animation - New:3785706
+Races - Modified:2075300
+Japanese:2573054
+Environment - Other:4872509
+TFF/UFF Bodybase:785967
+Races - New:3922670
+OBSE (Oblivion Script Extender):6640612
+Utilities for Modders:3835310
+Humor, Joke or Just for Fun:603364
+BAB Bodybase:176623
+Robert Male Bodybase:1049992
+Classes component:422181
+Leveled Lists:1652017
+Related to vampires:2068234
+Magic - Potions:2117967
+Spanish:868469
+Audio - Voices:3110056
+Gameplay Effects/Changes:10468047
+Magic - Spells:3028303
+For male characters:6709373
+German:2246508
+Lighting:2883811
+New textures:18397307
+Scripted Events:4884947
+Sexy/Skimpy:2008115
+Robert Female Bodybase:932534
+Quests:4839942
+Fair and balanced:3374329
+Books:3655394
+Environment - Weather:2169506
+For female characters:11416922
+Poses:624851
+OBMM (Oblivion Mod Manager):2122078
+Knight of The Nine:458722
+Items - Apparatus:2009319
+Anime:460800
+Items - Leveled:2690684
+Environment - Water:2472942
+Locations - World Map:4899856
+Animation - Modified:2877193
+Guilds / Factions:2893241
+Locations - Player-Owned:4020820
+Related to horses:1723745
+Locations - Buildings:5031019
+Russian:1807573
+Polish:199747
+Video:483051
+COBL (Common Oblivion):252120
+Czech:5648
+User Interface:3820114
+Body models:1690282
+Nudity:2929463
+Environment - Sky:2213389
+Lore-Friendly:12565973
+Armor - Shields:4596638
+NPCs:7036816
+Related to Movies/TV/Other Games:2123049
+Not Safe For Work:332033
+Chargen:1191702
+ENB Preset:6534
+Official:334149
+Shivering Isles:5695847
+NPC Trainers:1931410
+Tutorials for Modders:1300825
+Translation:8019
+Creatures - Rideable:1783536
+Audio - Sound FX:2876120
+Items - Ingredients:3072164
+Birthsigns:1034071
+Weapons:7510830
+Cheating:576492
+New Lands:1822695
+Locations - Dungeons:3990102
+Not Lore-Friendly:1501378
+Clothing - Male:1420480
+none:16048730
+Non-Playable Resource:393183
+Items - Clutter:3691753
+Creatures:4043521
+Magic - Enchantments:2842242
+Utilities for Players:6234309
+Replacer:8423868
+Italian:1409723
+Saved games:821457
+French:1242362
+Items - Furniture:2682370
+EC/HGEC Bodybase:6147589
+Plants / Foliage:3307094
+Hair:2779271
+NPC Vendors:3842974
+Modder's Resource:6135373
+Locations - Caverns:3133854
+Compilation:5275573
+Clothing - Female:2693258
+Other languages:155947
+Tutorials for Players:902813
+Companion Friendly:1103399
+Unbalanced:19497
+Companions:2939865
+Unrealistic:428650
+Face models:2868742
