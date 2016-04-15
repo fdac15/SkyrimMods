@@ -14,6 +14,8 @@ def tag_udl_count(f1, f2):
     for tag in tags.keys():
       sum = 0
       for mod in tags[tag]:
+        if mods[mod][8] == '':
+          continue
         sum += locale.atoi(mods[mod][8])
       udl[tag] = sum
   except:
