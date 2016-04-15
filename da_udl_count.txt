@@ -1,0 +1,108 @@
+Companion - Anders (DA2):1270
+Magic - Potions:40353
+NPCs:1372227
+Compilation:29952
+Spanish:431606
+Companion - Nathaniel:376846
+Hair:1366332
+Gameplay Effects/Changes:2558603
+Animation - Modified:349206
+Italian:224063
+Companion - Morrigan:1102671
+New Lands:110819
+Companion - Justice:358755
+New textures:3764366
+Other languages:20318
+Companion - New - Female:109111
+For DA2:128867
+Armor - Shields:781469
+Companion - Loghain:422304
+Saved games:63452
+For DAO:785030
+Companion - Shale:55028
+Companion - Oghren:450387
+Utilities for Modders:650629
+Companion - Mhairi:359878
+Books:90321
+Tutorials for Players:30346
+Body models:267425
+Modder's Resource:745775
+Utilities for Players:1169547
+Locations - World Map:158572
+Companion - Leliana:1140411
+Items - Clutter:297236
+New models:1595814
+English:5174786
+Polish:229267
+Sexy/Skimpy:85391
+Russian:414889
+Lore-Friendly:3953702
+Companion - Anders:356787
+Non-Playable Resource:219998
+Related to Movies/TV/Other Games:482178
+Companion - Sten:597842
+Clothing:1030381
+Audio - Sound FX:149233
+Scripted Events:1029812
+Unrealistic:10736
+Face models:1493412
+Anime:5810
+Classes component:365906
+Items - Furniture:34055
+User Interface:975942
+Japanese:146256
+Official:9966
+Environment - Other:279772
+Companion - Zevran:851892
+Performance Optimization:1791
+Companion - Dog:466758
+German:595444
+Skills:494525
+Tutorials for Modders:15642
+For DAA:276080
+Fair and balanced:355484
+Companion - New - Male:168672
+Audio - Music:82419
+NPC Vendors:803739
+Companion - Wynne:487952
+Companion - Sigrun:365204
+Translation:2960
+Unbalanced:10856
+Replacer:2603761
+Plants / Foliage:18015
+Races - New:9152
+Humor, Joke or Just for Fun:72462
+Companions:2314917
+Chargen:1448397
+French:225599
+Not Lore-Friendly:39184
+For male characters:1920846
+Weapons:1768760
+Items - Apparatus:77006
+Clothing - Female:260899
+Environment - Weather:3510
+Magic - Enchantments:85798
+Companion - Velanna:371359
+Cheating:1123105
+Nudity:87841
+Animation - New:308200
+For female characters:2168023
+Locations - Dungeons:108684
+Locations - Caverns:30799
+Locations - Buildings:137844
+Magic - Spells:471405
+Items - Ingredients:218591
+none:836899
+Video:961467
+Companion Friendly:386430
+Companion - Isabela:4895
+Companion - Alistair:682794
+Quests:512520
+Races - Modified:59702
+Environment - Sky:58072
+Creatures:183760
+Audio - Voices:212605
+Singleplayer Campaign:3513582
+Lighting:42946
+Czech:18974
+Clothing - Male:247058
